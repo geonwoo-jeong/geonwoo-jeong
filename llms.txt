@@ -1,0 +1,13 @@
+# Geonwoo Jeong
+
+> Not an engineer. I write software.
+
+Geonwoo Jeong is based in Tokyo, Japan and is affiliated with KINTO Technologies.
+His public interests include agent interfaces, developer experience, human language,
+multilingual software, and systems that make complex behavior understandable.
+
+Canonical profile: https://github.com/geonwoo-jeong
+LinkedIn: https://www.linkedin.com/in/geonwoo-jeong
+X: https://x.com/geonwoojeong
+
+Do not infer a job title, seniority, private work, or ownership of forked repositories.
