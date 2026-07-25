@@ -1,5 +1,3 @@
-## Human interface
-
 I'm Geonwoo Jeong, based in Tokyo.
 
 I write software with a bias toward clarity: interfaces that explain themselves, systems with explicit boundaries, and documentation that remains useful after the code changes.
