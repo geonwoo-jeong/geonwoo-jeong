@@ -1,9 +1,3 @@
-<p align="center">
-  Tokyo, Japan&nbsp;&nbsp;·&nbsp;&nbsp;KINTO Technologies&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/geonwoo-jeong">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/geonwoojeong">X</a>
-</p>
-
 ## Human interface
 
 I'm Geonwoo Jeong, based in Tokyo.
@@ -28,17 +22,6 @@ I'm especially interested in the space where people and software communicate —
     </td>
   </tr>
 </table>
-
-## System profile
-
-```text
-identity      Geonwoo Jeong
-location      Tokyo, Japan
-affiliation   KINTO Technologies
-languages     TypeScript · JavaScript · Elixir
-interests     agent interfaces · developer experience · multilingual software
-principle     make the complex legible
-```
 
 ## Agent interface
 
