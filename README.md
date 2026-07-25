@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Geonwoo Jeong — Not an engineer. I write software." />
-</p>
-
-<p align="center">
   Tokyo, Japan&nbsp;&nbsp;·&nbsp;&nbsp;KINTO Technologies&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/geonwoo-jeong">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://x.com/geonwoojeong">X</a>
@@ -50,13 +46,3 @@ This profile has a small machine-readable companion.
 
 - [`AGENTS.md`](./AGENTS.md) — structured public facts and citation guidance
 - [`llms.txt`](./llms.txt) — a terse profile summary for language models
-
-## Open channel
-
-I'm always happy to exchange notes about thoughtful software, human-readable systems, and better interfaces between people and machines.
-
-<p>
-  <a href="https://www.linkedin.com/in/geonwoo-jeong">Connect on LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/geonwoojeong">Follow on X</a>
-</p>
