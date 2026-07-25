@@ -6,23 +6,6 @@ I write software with a bias toward clarity: interfaces that explain themselves,
 
 I'm especially interested in the space where people and software communicate — through language, developer tools, and agent-aware systems.
 
-<table>
-  <tr>
-    <td width="33%">
-      <strong>01 / Human first</strong><br/><br/>
-      Technology should reduce cognitive load, not move it somewhere less visible.
-    </td>
-    <td width="33%">
-      <strong>02 / Explicit over magical</strong><br/><br/>
-      Good systems make their behavior, boundaries, and failure modes understandable.
-    </td>
-    <td width="33%">
-      <strong>03 / Context should travel</strong><br/><br/>
-      Code becomes more useful when its decisions and constraints remain close by.
-    </td>
-  </tr>
-</table>
-
 ## Agent interface
 
 This profile has a small machine-readable companion.
