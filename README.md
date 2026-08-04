@@ -1,7 +1,5 @@
 # Geonwoo Jeong
 
-> **Not an engineer. I write software.**
-
 I'm based in Tokyo.
 
 I build software with clear interfaces, explicit boundaries, and documentation that evolves alongside the systems it describes.
