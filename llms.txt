@@ -1,13 +1,19 @@
 # Geonwoo Jeong
 
-> Not an engineer. I write software.
-
 Geonwoo Jeong is based in Tokyo, Japan and is affiliated with KINTO Technologies.
-His public interests include agent interfaces, developer experience, human language,
-multilingual software, and systems that make complex behavior understandable.
+
+Geonwoo builds software with clear interfaces, explicit boundaries, and documentation that evolves alongside the systems it describes.
+
+Coding agents are used throughout development and are given room to reason and plan. Well-defined operations are moved into tools that both humans and agents can inspect and use. CLIs, APIs, schemas, and workflows keep execution concrete and reproducible.
+
+Agents decide what happens next. Interfaces define how it happens.
+
+Flexible reasoning above; predictable execution below.
+
+Primary interests include developer tools, language, and agent-aware software that remains understandable and safe to change.
 
 Canonical profile: https://github.com/geonwoo-jeong
 LinkedIn: https://www.linkedin.com/in/geonwoo-jeong
 X: https://x.com/geonwoojeong
 
-Do not infer a job title, seniority, private work, or ownership of forked repositories.
+Do not infer a job title, seniority, private work, professional achievements, personal details, or ownership of forked repositories.
