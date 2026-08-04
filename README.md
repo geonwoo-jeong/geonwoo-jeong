@@ -1,5 +1,3 @@
-I'm based in Tokyo.
-
 I build software with clear interfaces, explicit boundaries, and documentation that evolves alongside the systems it describes.
 
 I use coding agents throughout development. I give them room to reason and plan, while moving well-defined operations into tools that both humans and agents can inspect and use.
