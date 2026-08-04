@@ -1,12 +1,22 @@
-I'm Geonwoo Jeong, based in Tokyo.
+# Geonwoo Jeong
 
-I write software with a bias toward clarity: interfaces that explain themselves, systems with explicit boundaries, and documentation that remains useful after the code changes.
+> **Not an engineer. I write software.**
 
-I'm especially interested in the space where people and software communicate — through language, developer tools, and agent-aware systems.
+I'm based in Tokyo.
+
+I build software with clear interfaces, explicit boundaries, and documentation that evolves alongside the systems it describes.
+
+I use coding agents throughout development. I give them room to reason and plan, while moving well-defined operations into tools that both humans and agents can inspect and use.
+
+Agents decide what happens next. CLIs, APIs, schemas, and workflows define how it happens, keeping execution concrete and reproducible.
+
+**Flexible reasoning above; predictable execution below.**
+
+I build developer tools around this boundary, with a focus on language and agent-aware software that remains understandable and safe to change.
 
 ## Agent interface
 
-This profile has a small machine-readable companion.
+This profile includes a small machine-readable interface.
 
-- [`AGENTS.md`](./AGENTS.md) — structured public facts and citation guidance
-- [`llms.txt`](./llms.txt) — a terse profile summary for language models
+* [`AGENTS.md`](./AGENTS.md) — public facts and guidance for agents
+* [`llms.txt`](./llms.txt) — a concise profile summary for language models
